@@ -63,18 +63,13 @@ We evaluate the results obtained at the end of the project, highlighting key fea
 8. A connected user can search for trips
 ### Proposed Solution
 1. Search and Match
-   - Proposed Solution: Description of the search algorithm, user interface, result filtering.
-   - Level reached for each evaluation criterion: Details on user-friendliness, speed, and accuracy of the search.
-   - Control modalities: Testing methods to verify the effectiveness of the search (user tests, benchmarks, etc.).
-   - Share of the price allocated to this function: Estimated cost for the development and integration of this function.
+	The user can search a travel through many criteria such as the departure date, the arrival date, the user profile information(like user rate), the departure address, the arrival address, etc.
 2. User Profile and Ratings
-   - Proposed Solution: Profile creation and management interface, rating system.
-   - Level reached for each evaluation criterion: Data security, ease of use.
-   - Control modalities: Security tests, user feedback.
-   - Share of the price allocated to this function: Estimated cost for this specific function.
+	A user can see another user informations through his profile page and rate him.
 3. Booking
-   - Proposed Solution: Description of the booking process, integration of payment options.
-   - Level reached for each evaluation criterion: Transaction security, simplicity of the process
+	A user can book a travel by send a participation request to the owner of the travel. If the owner is interested(for example after visit the profile), he can accept the participation request and then these users can travel together
+4. Contact
+   	A user can contact another another user by filling a simple form input(textarea). This message will be sent to the mail inbox of the recipient.
 
 ## The execution on the client-side
 See the entire videos of the execution [here on google drive](https://drive.google.com/drive/folders/1qpdSySbmsE1yrWuqQ8iF-mh6TaPVNgkA?usp=sharing)
