@@ -63,13 +63,13 @@ We evaluate the results obtained at the end of the project, highlighting key fea
 8. A connected user can search for trips
 ### Proposed Solution
 1. Search and Match
-	The user can search a travel through many criteria such as the departure date, the arrival date, the user profile information(like user rate), the departure address, the arrival address, etc.
+	- The user can search a travel through many criteria such as the departure date, the arrival date, the user profile information(like user rate), the departure address, the arrival address, etc.
 2. User Profile and Ratings
-	A user can see another user informations through his profile page and rate him.
+	- A user can see another user informations through his profile page and rate him.
 3. Booking
-	A user can book a travel by send a participation request to the owner of the travel. If the owner is interested(for example after visit the profile), he can accept the participation request and then these users can travel together
+	- A user can book a travel by send a participation request to the owner of the travel. If the owner is interested(for example after visit the profile), he can accept the participation request and then these users can travel together
 4. Contact
-   	A user can contact another another user by filling a simple form input(textarea). This message will be sent to the mail inbox of the recipient.
+   	- A user can contact another another user by filling a simple form input(textarea). This message will be sent to the mail inbox of the recipient.
 
 ## The execution on the client-side
 See the entire videos of the execution [here on google drive](https://drive.google.com/drive/folders/1qpdSySbmsE1yrWuqQ8iF-mh6TaPVNgkA?usp=sharing)
