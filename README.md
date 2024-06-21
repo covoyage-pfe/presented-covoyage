@@ -75,3 +75,8 @@ We evaluate the results obtained at the end of the project, highlighting key fea
 3. Booking
    - Proposed Solution: Description of the booking process, integration of payment options.
    - Level reached for each evaluation criterion: Transaction security, simplicity of the process
+
+## The execution on the client-side
+https://drive.google.com/drive/folders/1qpdSySbmsE1yrWuqQ8iF-mh6TaPVNgkA?usp=sharing
+
+## Conception of the database
