@@ -21,4 +21,4 @@ We detail the steps for deploying the co-voyage site, including server configura
 We evaluate the results obtained at the end of the project, highlighting key features successfully implemented, issues encountered, and solutions adopted. Positive feedback from users(our supervisors) during beta testing is also presented.
 
 ## Technologies used
-![nodejs]()
+![nodejs](/static-img/nodejs.jpg)
