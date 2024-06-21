@@ -77,6 +77,6 @@ We evaluate the results obtained at the end of the project, highlighting key fea
    - Level reached for each evaluation criterion: Transaction security, simplicity of the process
 
 ## The execution on the client-side
-https://drive.google.com/drive/folders/1qpdSySbmsE1yrWuqQ8iF-mh6TaPVNgkA?usp=sharing
+See the entire videos of the execution [here on google drive](https://drive.google.com/drive/folders/1qpdSySbmsE1yrWuqQ8iF-mh6TaPVNgkA?usp=sharing)
 
 ## Conception of the database
