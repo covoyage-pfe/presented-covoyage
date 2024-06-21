@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+nav link {
+    color: inherit;
+    text-decoration: none;
+    margin-right: 20px;
+}
+  
+nav link:hover {
+    text-decoration: underline;
+}

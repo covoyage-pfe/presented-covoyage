@@ -1,0 +1,29 @@
+.input-wrapper {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.label {
+    cursor: pointer;
+}
+
+.input {
+    flex: 1;
+    appearance: none;
+
+    border: 1px solid var(--primary-color);
+    outline: none;
+    border-radius: 0.25rem;
+    padding: 0.5rem 0.75rem;
+
+    box-shadow: 0 0 0 1px transparent;
+
+    line-height: 1.5;
+
+    transition: box-shadow 0.2ms;
+}
+
+.input:focus {
+    box-shadow: 0 0 0 2px var(--gray-color);
+}

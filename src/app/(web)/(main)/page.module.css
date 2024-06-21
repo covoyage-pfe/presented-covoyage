@@ -1,0 +1,36 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.hero {
+  height: 70vh;
+  background-image: url('/images/home-hero.jpg');
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.buttonWrapper {
+  margin-top: 1rem;
+}
+
+.buttonWrapper a {
+  border: none;
+  border-radius: 12px;
+  padding: 1rem 2rem;
+  background-color: var(--secondary-color);
+  color: aliceblue;
+}
+
+.headline {
+  background-image: url('/images/headline-color.jpg');
+  background-position: center;
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+  font-size: 4rem;
+}
