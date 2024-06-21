@@ -80,3 +80,4 @@ We evaluate the results obtained at the end of the project, highlighting key fea
 See the entire videos of the execution [here on google drive](https://drive.google.com/drive/folders/1qpdSySbmsE1yrWuqQ8iF-mh6TaPVNgkA?usp=sharing)
 
 ## Conception of the database
+[View on confluence](https://rayanetoko.atlassian.net/wiki/external/YjY3MmNjYjgzYWIyNDRlYzhiMjc1ZWNlZmIxYzhiNTA)
