@@ -83,6 +83,6 @@ See the entire videos of the execution [here on google drive](https://drive.goog
 [View on confluence](https://rayanetoko.atlassian.net/wiki/external/YjY3MmNjYjgzYWIyNDRlYzhiMjc1ZWNlZmIxYzhiNTA)
 
 ## Contributors
-* **Rayane TOKO** Backend development(API)
-* **Kaoutar RBIE** Frontend development(domain pages)
-* **Youness FAIK** Frontend development(user dashbord pages)
+* **Rayane TOKO** ==========> Backend development(API)
+* **Kaoutar RBIE** =========> Frontend development(domain pages)
+* **Youness FAIK** =========> Frontend development(user dashbord pages)
