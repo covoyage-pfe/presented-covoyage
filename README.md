@@ -33,3 +33,67 @@ We evaluate the results obtained at the end of the project, highlighting key fea
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 </div>
+
+## Expression Fonctionnelle du Besoin
+### Fonctionnalités principales
+1. Recherche et correspondance :
+o Permettre aux utilisateurs de rechercher des trajets et de trouver 
+des compagnons de voyage compatibles.
+o Critères de recherche incluent le lieu de départ, la destination, 
+les préférences de voyage (transport, note minimum).
+2. Profil utilisateur et évaluations :
+o Création et gestion de profils utilisateurs détaillés.
+o Système de notation et d’évaluation pour assurer la confiance et 
+la sécurité entre les utilisateurs.
+3. Réservation :
+o Faciliter la réservation de trajets.
+### Fonctions complémentaires
+1. Notifications et alertes :
+o Envoyer des notifications pour les mises à jour de trajets, les 
+messages entre utilisateurs, et les rappels de voyage.
+2. Historique et gestion des trajets :
+o Permettre aux utilisateurs de voir l’historique de leurs voyages 
+et de gérer leurs trajets futurs.
+### Contraintes
+1. Sécurité des données :
+o Assurer la protection des données personnelles des utilisateurs 
+conformément aux réglementations GDPR via un système 
+d’authentification
+### Règle de gestion
+1) Un utilisateur connecté peut créer plusieurs voyage à la fois tant que 
+le temps des voyages ne coïncident pas
+2) Un utilisateur connecté peut s’abonner à plusieurs voyage tant que le 
+temps des voyages ne coïncident pas
+3) Un utilisateur connecté peut évaluer un autre utilisateur seulement s’il 
+a déjà voyager avec ce dernier
+15
+4) Un utilisateur connecté peut évaluer un autre
+5) Un utilisateur connecté peut modifier son nom, prénom, username, 
+date de naissance, 
+6) Un utilisateur connecté peut ajouter des photos de ces voyages
+7) Un utilisateur connecté peut envoyer des messages à un autre 
+utilisateur via mail
+8) Un utilisateur connecté peut rechercher des voyages
+### Solution Proposée
+1. Recherche et correspondance
+o Solution proposée : Description de l'algorithme de recherche, interface 
+utilisateur, filtrage des résultats.
+o Niveau atteint pour chaque critère d’appréciation : Détails sur la 
+convivialité, la rapidité, et la précision de la recherche.
+o Modalités de contrôle : Méthodes de test pour vérifier l'efficacité de la 
+recherche (tests utilisateurs, benchmarks, etc.).
+o Part du prix attribué à cette fonction : Coût estimé pour le développement 
+et l'intégration de cette fonction.
+2. Profil utilisateur et évaluations
+o Solution proposée : Interface de création et de gestion des profils, 
+système de notation.
+o Niveau atteint pour chaque critère d’appréciation : Sécurité des données, 
+facilité d’utilisation.
+o Modalités de contrôle : Tests de sécurité, retours des utilisateurs.
+o Part du prix attribué à cette fonction : Coût estimé pour cette fonction 
+spécifique.
+3. Réservation
+o Solution proposée : Description du processus de réservation, intégration 
+des options de paiement.
+o Niveau atteint pour chaque critère d’appréciation : Sécurité des 
+transactions, simplicité du processus
