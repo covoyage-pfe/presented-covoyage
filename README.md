@@ -6,7 +6,7 @@ This platform will foster human interactions by offering people the opportunity 
 
 Our goal is to develop a user-friendly and secure interface, offering users the possibility to easily find travel companions for their trips.
 
-## Déroulement
+## Process
 Here we expose the stages and objectives of this project, namely the creation of a website allowing users to indicate and book journeys. We also detail the scope of the project, the stakeholders involved, and the established deadlines.
 
 ### Needs Analysis
